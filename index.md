@@ -5,9 +5,9 @@ layout: default
 
 <div class="board-section">
   <div class="bulletin-board">
-    <img class="board-bg" src= "/assets/background.jpg"/>
-    <img class="kwago-logo" src= "/assets/kwago-logo.svg" />
-    <img class="tape" src= "/assets/tape.png" />
+    <img class="board-bg" src= "../assets/background.jpg"/>
+    <img class="kwago-logo" src= "../assets/kwago-logo.svg" />
+    <img class="tape" src= "../assets/tape.png" />
   </div>
 
   <p>
