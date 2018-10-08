@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -17,11 +16,16 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  text-transform: lowercase;
 
   &,
   &:visited {
     color: $grey-color-dark;
   }
+}
+
+.main-nav,.site-nav {
+  text-transform: lowercase;
 }
 
 .main-nav {
@@ -40,9 +44,27 @@
       font-weight: bold;
     }
   }
+  .page-link {
+    margin-right: 0px !important;
+  }
+}
+
+.nav-logo {
+  width: 40px;
+  @include media-query($on-palm) {
+    width: 35px;
+    position: absolute;
+    top:12px;
+    z-index: 999999;
+  }
+}
+
+header .site-nav {
+  sup {display: none;}
 }
 
 .site-nav {
+
   z-index: 10000;
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -61,11 +83,27 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 40px;
     }
   }
 
   @include media-query($on-palm) {
+    sup {display: none;}
+    font-family: $secondary-font-family;
+    font-size: 4.5vw;
+    text-transform: lowercase;
+    float: none !important;
+    a {
+      display: block;
+      padding-bottom: 30px;
+      text-decoration: none;
+      span {
+        border-bottom: 3px black solid;
+      }
+      &:hover {
+        font-weight: bold;
+      }
+    }
     position: absolute;
     top: 9px;
     width: 100%;
@@ -200,7 +238,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 30px 0;
   flex: 1 0 auto;
 }
 
@@ -372,7 +410,7 @@
       padding: 0 20px 0 20px;
     }
   }
-  @media screen and (max-width: 1024px ) and (min-width: 601px ) {
+  @media screen and (max-width: 1024px ) and (min-width: 751px ) {
     width: 500px;
   }
 }
@@ -386,7 +424,7 @@
   @include media-query($on-palm) {
     width: 100%;
   }
-  @media screen and (max-width: 1024px ) and (min-width: 601px ) {
+  @media screen and (max-width: 1024px ) and (min-width: 751px ) {
     width: 500px;
   }
 }

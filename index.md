@@ -1,5 +1,4 @@
 ---
-title: Kwago
 layout: default
 ---
 
@@ -17,19 +16,11 @@ layout: default
       </label>
 
       <div class="trigger">
-          <a class="page-link" href="/manifesto"><span>manifesto<sup>1</sup></span></a>
-      </div>
-      <div class="trigger">
-          <a class="page-link" href="/programs"><span>programs<sup>2</sup></span></a>
-      </div>
-      <div class="trigger">
-          <a class="page-link" href="/curated-shelf"><span>a curated shelf</span></a>
-      </div>
-      <div class="trigger">
-          <a class="page-link" href="/publishers"><span>publishers</span></a>
-      </div>
-      <div class="trigger">
-          <a class="page-link" href="/submit"><span>submit a work</span></a>
+        <a class="page-link" href="/manifesto"><span>manifesto<sup>1</sup></span></a>
+        <a class="page-link" href="/programs"><span>programs<sup>2</sup></span></a>
+        <a class="page-link" href="/curated-shelf"><span>a curated shelf</span></a>
+        <a class="page-link" href="/publishers"><span>publishers</span></a>
+        <a class="page-link" href="/submit"><span>submit a work</span></a>
       </div>
     </nav>
   </div>
