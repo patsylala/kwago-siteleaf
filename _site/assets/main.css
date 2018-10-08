@@ -396,7 +396,8 @@ table {
   .board-section .bulletin-board {
     position: relative; }
     .board-section .bulletin-board .board-bg {
-      padding-bottom: 20px; }
+      padding-bottom: 20px;
+      z-index: -9999; }
     .board-section .bulletin-board .kwago-logo {
       position: absolute;
       bottom: 40px;
@@ -406,20 +407,29 @@ table {
       position: absolute;
       left: 50%;
       margin-left: -3.5vw;
-      top: -30px;
-      height: 7vw; }
+      top: -5%;
+      height: 7vw;
+      z-index: 9999; }
+    .board-section .bulletin-board .poster {
+      position: absolute;
+      width: 60%;
+      margin-left: 20%;
+      top: 20px;
+      left: 0px; }
 
 .contact-info {
-  margin-top: 40px; }
+  width: 50% !important;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px; }
   .contact-info .flex-child {
-    margin-left: 0;
-    margin-right: 0; }
+    margin: 0; }
   .contact-info .flex-child:first-of-type {
     text-align: right; }
     .contact-info .flex-child:first-of-type ul {
       list-style: none; }
       .contact-info .flex-child:first-of-type ul li {
-        margin-bottom: 45px; }
+        padding: 1em; }
       .contact-info .flex-child:first-of-type ul a {
         color: #000; }
   .contact-info .flex-child:last-of-type {
@@ -429,3 +439,15 @@ table {
 
 .copyright-wrapper {
   text-align: center; }
+
+.foot-notes {
+  margin: 40px 0 40px 0;
+  font-family: "Amiri", serif;
+  width: 50%;
+  padding: 40px 40px 0px 25px; }
+  .foot-notes ul {
+    list-style: none;
+    position: relative; }
+  .foot-notes sup {
+    position: absolute;
+    left: -18px; }
