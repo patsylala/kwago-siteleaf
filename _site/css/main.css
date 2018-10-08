@@ -191,6 +191,10 @@ table {
   table td {
     border: 1px solid #e8e8e8; }
 
+@media screen and (max-width: 600px) {
+  iframe {
+    width: 100%; } }
+
 /**
  * Site header
  */

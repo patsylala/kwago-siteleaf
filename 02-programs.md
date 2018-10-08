@@ -70,7 +70,7 @@ May Tambay Sa Kwago is a monthly gathering of people who wants to share their un
 
 No programs. No mentors. Tambay lang.
 
-Sign up here if you're interested to share a project/ WIP: bit.ly/DraftZero
+Sign up [here](bit.ly/DraftZero) if you're interested to share a project/ WIP.
 
 
 <br /><br />

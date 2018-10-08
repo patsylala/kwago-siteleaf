@@ -263,3 +263,9 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+iframe {
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+}
