@@ -1,5 +1,5 @@
 ---
-title: Manifesto
+title: Kwago
 layout: default
 ---
 
