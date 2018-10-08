@@ -56,7 +56,7 @@ layout: default
       foundation from which everything we do springs from. English translation is available.
     </li>
     <li>
-      <sup>2</sup>Warehouse Eight is our main co-conspirator in most of our programs and has helped us in a very major
+      <sup>2</sup><a href="http://warehouse-eight.com">Warehouse Eight</a> is our main co-conspirator in most of our programs and has helped us in a very major
       way in starting and growing our organization.
     </li>
     <li>
