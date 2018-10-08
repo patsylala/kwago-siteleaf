@@ -11,8 +11,8 @@ collections:
 email: isipkwago@gmail.com
 description: Kwago  is a Manila-based, independent book distributor committed to building
   intimate spaces for readers and storytellers to connect, create and collaborate.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 instagram_username: isipkwago
 facebook_username: isipkwago
 markdown: kramdown
