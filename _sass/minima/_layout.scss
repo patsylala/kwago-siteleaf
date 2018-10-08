@@ -381,6 +381,7 @@ header .site-nav {
 }
 
 .contact-info {
+  box-sizing: border-box;
   border: 1px solid $grey-color-dark;
   padding: 40px 0 40px 0;
   width: 40%;
@@ -412,7 +413,7 @@ header .site-nav {
     }
   }
   @include media-query($on-palm) {
-    width: 100%;
+    width: 85%;
     ul {
       margin-left: 0px;
     }

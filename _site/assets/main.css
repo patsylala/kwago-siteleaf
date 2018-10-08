@@ -477,6 +477,7 @@ header .site-nav sup {
       left: 0px; }
 
 .contact-info {
+  box-sizing: border-box;
   border: 1px solid #424242;
   padding: 40px 0 40px 0;
   width: 40%;
@@ -502,7 +503,7 @@ header .site-nav sup {
       display: inline-block; }
   @media screen and (max-width: 750px) {
     .contact-info {
-      width: 100%; }
+      width: 85%; }
       .contact-info ul {
         margin-left: 0px; }
       .contact-info .flex-child {
