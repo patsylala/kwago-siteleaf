@@ -442,6 +442,9 @@ header .site-nav sup {
   padding-top: 2em; }
   .board-section p {
     padding: 0 20px 0 20px; }
+    @media screen and (max-width: 750px) {
+      .board-section p sup {
+        display: none; } }
   .board-section .bulletin-board {
     position: relative; }
     .board-section .bulletin-board .board-bg {
@@ -529,4 +532,4 @@ header .site-nav sup {
     left: -18px; }
   @media screen and (max-width: 750px) {
     .foot-notes {
-      width: inherit; } }
+      display: none; } }

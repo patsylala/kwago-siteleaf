@@ -336,6 +336,9 @@ header .site-nav {
   padding-top: 2em;
   p {
     padding: 0 20px 0 20px;
+    @include media-query($on-palm) {
+      sup {display: none;}
+    }
   }
   .bulletin-board {
     position: relative;
@@ -447,6 +450,6 @@ header .site-nav {
     left: -18px;
   }
   @include media-query($on-palm) {
-    width: inherit;
+    display: none;
   }
 }
