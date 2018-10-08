@@ -225,6 +225,7 @@ table {
       font-weight: bold; }
 
 .site-nav {
+  z-index: 10000;
   float: right;
   line-height: 54px; }
   .site-nav .nav-trigger {
@@ -240,11 +241,12 @@ table {
     .site-nav {
       position: absolute;
       top: 9px;
+      width: 100%;
       right: 15px;
       background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
       border-radius: 5px;
-      text-align: right; }
+      text-align: center;
+      font-size: 7vw; }
       .site-nav label[for="nav-trigger"] {
         display: block;
         float: right;
@@ -388,6 +390,16 @@ table {
       .post-content h4 {
         font-size: 18px; } }
 
+@media screen and (max-width: 600px) {
+  #nav-flex {
+    margin: 0;
+    padding: 0;
+    min-width: 0; } }
+
+@media screen and (max-width: 600px) {
+  #board-flex {
+    width: 100%; } }
+
 .board-section {
   margin: auto;
   padding-top: 2em; }
@@ -396,7 +408,8 @@ table {
   .board-section .bulletin-board {
     position: relative; }
     .board-section .bulletin-board .board-bg {
-      padding-bottom: 20px; }
+      padding-bottom: 20px;
+      z-index: -9999; }
     .board-section .bulletin-board .kwago-logo {
       position: absolute;
       bottom: 40px;
@@ -406,26 +419,69 @@ table {
       position: absolute;
       left: 50%;
       margin-left: -3.5vw;
-      top: -30px;
-      height: 7vw; }
+      top: -5%;
+      height: 7vw;
+      z-index: 9999; }
+      @media screen and (max-width: 600px) {
+        .board-section .bulletin-board .tape {
+          height: 12vw;
+          margin-left: -6vw; } }
+    .board-section .bulletin-board .poster {
+      position: absolute;
+      width: 60%;
+      margin-left: 20%;
+      top: 20px;
+      left: 0px; }
 
 .contact-info {
-  margin-top: 40px; }
+  width: 50%;
+  float: right;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: .8em; }
   .contact-info .flex-child {
-    margin-left: 0;
-    margin-right: 0; }
+    margin: 0; }
   .contact-info .flex-child:first-of-type {
     text-align: right; }
     .contact-info .flex-child:first-of-type ul {
       list-style: none; }
       .contact-info .flex-child:first-of-type ul li {
-        margin-bottom: 45px; }
+        padding: 1em; }
       .contact-info .flex-child:first-of-type ul a {
         color: #000; }
   .contact-info .flex-child:last-of-type {
     border-left: 1px solid black; }
     .contact-info .flex-child:last-of-type .social-media-list li {
       display: inline-block; }
+  @media screen and (max-width: 600px) {
+    .contact-info {
+      width: 100%; }
+      .contact-info ul {
+        margin-left: 0px; }
+      .contact-info .flex-child {
+        padding: 0 20px 0 20px; } }
+  @media screen and (max-width: 1024px) and (min-width: 601px) {
+    .contact-info {
+      width: 500px; } }
 
 .copyright-wrapper {
-  text-align: center; }
+  text-align: center;
+  font-size: .8em;
+  clear: both; }
+
+.foot-notes {
+  margin: 40px 0 40px 0;
+  font-family: "Amiri", serif;
+  width: 50%;
+  padding: 40px 40px 0px 25px; }
+  .foot-notes ul {
+    list-style: none;
+    position: relative; }
+    .foot-notes ul li {
+      margin-bottom: 1em; }
+  .foot-notes sup {
+    position: absolute;
+    left: -18px; }
+  @media screen and (max-width: 600px) {
+    .foot-notes {
+      width: inherit; } }

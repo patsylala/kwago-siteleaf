@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="flex">
-  <div class="flex-child">
+  <div id="nav-flex" class="flex-child">
 
     <nav class="site-nav main-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
