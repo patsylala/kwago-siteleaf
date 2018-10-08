@@ -454,7 +454,7 @@ header .site-nav sup {
       position: absolute;
       bottom: 40px;
       right: 20px;
-      height: 7vw; }
+      height: 6vw; }
     .board-section .bulletin-board .tape {
       position: absolute;
       left: 50%;
@@ -518,8 +518,8 @@ header .site-nav sup {
       width: 500px; } }
 
 .foot-notes {
+  font-size: .8em;
   margin: 40px 0 40px 0;
-  font-family: "Amiri", serif;
   width: 50%;
   padding: 40px 40px 0px 25px; }
   .foot-notes ul {
