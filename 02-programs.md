@@ -16,8 +16,6 @@ Co-designed with Warehouse Eight, *Komura;* is an independent initiative that ai
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwgBz8ghyAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-
-
 <br /><br />
 
 Book Bar
