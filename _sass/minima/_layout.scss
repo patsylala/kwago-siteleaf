@@ -103,6 +103,10 @@
       display: none;
     }
 
+    .trigger {
+      margin: 40px 0px;
+    }
+
     input:checked ~ .trigger {
       display: block;
       padding-bottom: 5px;
@@ -374,9 +378,16 @@
 }
 
 .copyright-wrapper {
+  width: 50%;
   text-align: center;
   font-size: .8em;
-  clear: both;
+  float: right;
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+  @media screen and (max-width: 1024px ) and (min-width: 601px ) {
+    width: 500px;
+  }
 }
 
 .foot-notes {

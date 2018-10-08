@@ -267,6 +267,8 @@ table {
       .site-nav input ~ .trigger {
         clear: both;
         display: none; }
+      .site-nav .trigger {
+        margin: 40px 0px; }
       .site-nav input:checked ~ .trigger {
         display: block;
         padding-bottom: 5px; }
@@ -465,9 +467,16 @@ table {
       width: 500px; } }
 
 .copyright-wrapper {
+  width: 50%;
   text-align: center;
   font-size: .8em;
-  clear: both; }
+  float: right; }
+  @media screen and (max-width: 600px) {
+    .copyright-wrapper {
+      width: 100%; } }
+  @media screen and (max-width: 1024px) and (min-width: 601px) {
+    .copyright-wrapper {
+      width: 500px; } }
 
 .foot-notes {
   margin: 40px 0 40px 0;
