@@ -407,7 +407,7 @@ header .site-nav {
   }
   .flex-child:nth-of-type(3) {
     @include media-query($on-palm) {
-      padding-top: 20px;
+      padding-top: 30px;
     }
   }
   .flex-child:nth-of-type(3) ul > li {
