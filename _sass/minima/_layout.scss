@@ -412,6 +412,12 @@ header .site-nav {
   }
   .flex-child:nth-of-type(3) ul > li {
     padding-bottom: 20px;
+
+  }
+  .flex-child:nth-of-type(3) ul > li:nth-of-type(2) {
+    @include media-query($on-palm) {
+      padding-bottom: 10px;
+    }
   }
   .flex-child:last-of-type {
     flex-grow: 1;
