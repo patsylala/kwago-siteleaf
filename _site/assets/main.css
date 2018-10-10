@@ -147,6 +147,9 @@ pre {
     margin-top: 30px;
     padding: 0 40px 0 40px;
     box-sizing: border-box; }
+    @media screen and (max-width: 750px) {
+      .flex .flex-child {
+        padding: 0 20px 0 20px; } }
 
 /**
  * Clearfix
@@ -453,73 +456,96 @@ header .site-nav sup {
     .board-section .bulletin-board .board-bg {
       padding-bottom: 20px;
       z-index: -9999; }
-    .board-section .bulletin-board .kwago-logo {
+    .board-section .bulletin-board .bulletin-text {
+      box-sizing: border-box;
+      padding: 10px;
+      font-family: "Amiri", serif;
+      height: 14vw;
+      font-size: 1.2vw;
       position: absolute;
-      bottom: 40px;
-      right: 20px;
-      height: 6vw; }
-    .board-section .bulletin-board .tape {
-      position: absolute;
-      left: 50%;
-      margin-left: -3.5vw;
-      top: -5%;
-      height: 7vw;
-      z-index: 9999; }
-      @media screen and (max-width: 750px) {
-        .board-section .bulletin-board .tape {
-          height: 12vw;
-          margin-left: -6vw; } }
-    .board-section .bulletin-board .poster {
-      position: absolute;
-      width: 60%;
-      margin-left: 20%;
-      top: 20px;
+      bottom: 0px;
+      width: 50%;
       left: 0px; }
+      .board-section .bulletin-board .bulletin-text span {
+        color: #2a7ae2;
+        text-decoration: underline;
+        padding-bottom: 10px;
+        display: inline-block; }
+      .board-section .bulletin-board .bulletin-text:nth-of-type(2) {
+        left: 50%; }
+      @media screen and (max-width: 750px) {
+        .board-section .bulletin-board .bulletin-text {
+          height: 27vw;
+          font-size: 2vw; } }
 
 .contact-info {
   box-sizing: border-box;
-  border: 1px solid #424242;
-  padding: 40px 0 40px 0;
-  width: 40%;
-  margin: 40px auto 40px auto;
+  width: 100%;
   font-size: .8em; }
+  .contact-info ul {
+    list-style: none; }
+    @media screen and (max-width: 750px) {
+      .contact-info ul {
+        padding: 0;
+        margin: 0; } }
+  .contact-info a {
+    color: #000; }
   .contact-info .flex-child {
-    margin: 0; }
-  .contact-info .flex-child:first-of-type {
-    text-align: right; }
-    .contact-info .flex-child:first-of-type ul {
-      list-style: none;
-      display: table;
-      float: right;
-      height: 100%; }
-      .contact-info .flex-child:first-of-type ul li {
-        padding: 1em;
-        display: table-row; }
-      .contact-info .flex-child:first-of-type ul a {
-        color: #000; }
+    margin: 0;
+    min-width: 0; }
+    @media screen and (max-width: 750px) {
+      .contact-info .flex-child {
+        width: 100%;
+        margin-bottom: 20px; } }
+  @media screen and (max-width: 750px) {
+    .contact-info .flex-child:nth-of-type(2) {
+      background-image: linear-gradient(to right, black 24%, rgba(255, 255, 255, 0) 0%);
+      background-position: bottom;
+      background-size: 15px 1px;
+      background-repeat: repeat-x;
+      padding: 30px 0; } }
+  @media screen and (max-width: 750px) {
+    .contact-info .flex-child:nth-of-type(3) {
+      padding-top: 20px; } }
+  .contact-info .flex-child:nth-of-type(3) ul > li {
+    padding-bottom: 20px; }
   .contact-info .flex-child:last-of-type {
-    border-left: 1px solid black; }
-    .contact-info .flex-child:last-of-type .social-media-list li {
-      display: inline-block; }
+    flex-grow: 1; }
   @media screen and (max-width: 750px) {
     .contact-info {
-      width: 85%; }
-      .contact-info ul {
-        margin-left: 0px; }
-      .contact-info .flex-child {
-        padding: 0 20px 0 20px; } }
-  @media screen and (max-width: 1024px) and (min-width: 751px) {
-    .contact-info {
-      width: 500px; } }
+      flex-flow: wrap;
+      text-align: center; } }
+  .contact-info .kwago-logo {
+    height: 80px; }
+
+.social-table {
+  display: table; }
+  @media screen and (max-width: 750px) {
+    .social-table {
+      margin: auto; } }
+  .social-table .social-cell {
+    padding-right: 40px;
+    display: table-cell; }
+    @media screen and (max-width: 750px) {
+      .social-table .social-cell {
+        padding: 0 40px 0px 40px; } }
+    .social-table .social-cell li {
+      text-decoration: underline; }
+      .social-table .social-cell li a {
+        color: #828282; }
 
 .copyright-wrapper {
-  text-align: center;
-  font-size: .8em; }
+  text-align: right; }
+  @media screen and (max-width: 750px) {
+    .copyright-wrapper {
+      text-align: center;
+      padding-top: 20px; } }
 
 .foot-notes {
+  box-sizing: border-box;
   font-size: .7em;
   margin: 40px 0 40px 0;
-  width: 50%;
+  width: 100%;
   padding: 40px 40px 0px 25px; }
   .foot-notes ul {
     list-style: none;

@@ -3,11 +3,7 @@
 
   <div class="contact-info flex">
     <div class="flex-child">
-      <ul>
-        <li><a href="">PRESS</a></li>
-        <li><a href="">NEWSLETTER</a></li>
-        <li><a href="">SOCIAL MEDIA</a></li>
-      </ul>
+      <a href="{{ "/" | relative_url }}"><img class="kwago-logo" src= "../assets/kwago-logo.svg" /></a>
     </div>
     <div class="flex-child">
       <p>
@@ -19,15 +15,31 @@
 
         <strong>MON - SAT: 10AM - 7PM</strong>
 
-        {%- include social.html -%}
-
       </p>
 
     </div>
-  </div>
-
-  <div class="copyright-wrapper">
-    © KWAGO ALL RIGHTS RESERVED
+    <div class="flex-child">
+      <ul>
+        <li><a href="">PRESS</a></li>
+        <li>CONNECT</li>
+        <div class="social-table">
+          <div class="social-cell">
+            <li><a href="https://www.facebook.com/isipkwago">Facebook</a></li>
+            <li><a href="https://www.instagram.com/isipkwago">Instagram</a></li>
+          </div>
+          <div class="social-cell">
+            <li><a href="">Newsletter</a></li>
+            <li><a href="mailto:isipkwago@gmail.com">E-mail</a></li>
+          </div>
+        </div>
+      </ul>
+    </div>
+    <div class="flex-child">
+      <div class="copyright-wrapper">
+        Copyright Kwago 2018<br/>
+        All Rights Reserved
+      </div>
+    </div>
   </div>
 
 </footer>

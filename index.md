@@ -28,10 +28,20 @@ layout: default
   <div class="flex-child">
     <div class="board-section">
       <div class="bulletin-board">
-        <img class="board-bg" src= "assets/background.jpg"/>
-        <img class="kwago-logo" src= "assets/kwago-logo.svg" />
+        <img class="board-bg" src= "assets/notebook.jpg"/>
+        <!-- <img class="kwago-logo" src= "assets/kwago-logo.svg" />
         <img class="tape" src= "assets/tape.png" />
-        <img class="poster" src= "assets/posters/placeholder.jpg" />
+        <img class="poster" src= "assets/posters/placeholder.jpg" /> -->
+        <div class="bulletin-text">
+          <p>
+          <span>Nov 24, 2018</span><br/>
+          An intimate conference on funding independent creative pursuits for storytellers.</p>
+        </div>
+        <div class="bulletin-text">
+          <p>
+          <span>Nov 28, 2018</span><br/>
+          A night of good music & great company. More details at <a href="http://bit.ly/BEFOREMIDNIGHT">bit.ly/BEFOREMIDNIGHT</a></p>
+        </div>
       </div>
       <p>
         Kwago<sup>3</sup> is a Manila-based, independent book distributor committed to building intimate spaces<sup>4</sup> for readers and storytellers to connect, create and collaborate.
