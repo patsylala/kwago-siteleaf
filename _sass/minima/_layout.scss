@@ -346,15 +346,13 @@ header .site-nav {
   .bulletin-board {
     position: relative;
     .board-bg {
-      img {
-        width: 100%;
-      }
+      width: 100% !important;
       padding-bottom: 20px;
       z-index: -9999;
     }
     .bulletin-text {
       box-sizing: border-box;
-      padding: 10px;
+      padding: 1.5em;
       font-family: $secondary-font-family;
       span {
         color: $brand-color;
@@ -365,7 +363,7 @@ header .site-nav {
       height: 14vw;
       font-size: 1.2vw;
       position: absolute;
-      bottom: 0px;
+      bottom: 15px;
       width: 50%;
       left: 0px;
       &:nth-of-type(2) {
