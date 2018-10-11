@@ -456,6 +456,8 @@ header .site-nav sup {
     .board-section .bulletin-board .board-bg {
       padding-bottom: 20px;
       z-index: -9999; }
+      .board-section .bulletin-board .board-bg img {
+        width: 100%; }
     .board-section .bulletin-board .bulletin-text {
       box-sizing: border-box;
       padding: 10px;

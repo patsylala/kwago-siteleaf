@@ -346,6 +346,9 @@ header .site-nav {
   .bulletin-board {
     position: relative;
     .board-bg {
+      img {
+        width: 100%;
+      }
       padding-bottom: 20px;
       z-index: -9999;
     }
