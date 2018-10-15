@@ -496,11 +496,15 @@ header .site-nav {
 .submit-container {
   box-sizing: border-box;
   padding: 30px;
-  height: 500px;
+  min-height: 500px;
   background: url("../assets/crumpled-bg.jpg") no-repeat center;
   background-size: contain;
+    @include media-query($on-palm) {
+      background-size: cover;
+    }
   form > * {
     display: block;
+    box-sizing : border-box;
   }
   input, textarea {
     font-family: $secondary-font-family;
@@ -508,6 +512,7 @@ header .site-nav {
     background: none;
     border: none;
     width: 100%;
+    padding: 20px 0 20px 0;
   }
   input {
     border-bottom: 1px solid black;
