@@ -448,7 +448,7 @@ header .site-nav sup {
   margin: auto;
   padding-top: 2em; }
   .board-section p {
-    padding: 0 20px 0 20px; }
+    padding: 0 15px 0 15px; }
     @media screen and (max-width: 750px) {
       .board-section p sup {
         display: none; } }
