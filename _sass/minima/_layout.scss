@@ -492,3 +492,40 @@ header .site-nav {
     display: none;
   }
 }
+
+.submit-container {
+  box-sizing: border-box;
+  padding: 30px;
+  height: 500px;
+  background: url("../assets/crumpled-bg.jpg") no-repeat center;
+  background-size: contain;
+  form > * {
+    display: block;
+  }
+  input, textarea {
+    font-family: $secondary-font-family;
+    font-size: 2em;
+    background: none;
+    border: none;
+    width: 100%;
+  }
+  input {
+    border-bottom: 1px solid black;
+  }
+  input:focus,textarea:focus { outline: none; }
+  textarea {
+    min-height: 300px;
+    resize: none;
+  }
+  button {
+    cursor: pointer;
+    width: 100%;
+    font-family: $secondary-font-family;
+    font-size: 2em;
+    border: 1px solid black;
+    background: none;
+    padding: 10px;
+    margin-top: 20px;
+    margin: auto;
+  }
+}
