@@ -11,7 +11,7 @@ With a vision to bring a library in every creative community in the Philippines,
 Komura;
 -------------
 
-Co-designed with Warehouse Eight, *Komura;* is an independent initiative that aims to explore creative ways to make and experience literature. Since its launched in November 2018, it has evolved from being just a book fair and has spawned new programs that seek to provide holistic support for the readers and storytellers community: Komura; Studio (talks and workshop), Pixel (tech-based narrative and media), Creators Grant (funding for creators), Playground (zine market) and Directory (online database of independent and specialty creators and shops). More details about Komura; are found in our <a href="www.hellokomura.com">website</a>.
+Co-designed with Warehouse Eight, *Komura;* is an independent initiative that aims to explore creative ways to make and experience literature. Since its launched in November 2018, it has evolved from being just a book fair and has spawned new programs that seek to provide holistic support for the readers and storytellers community: Komura; Studio (talks and workshop), Pixel (tech-based narrative and media), Creators Grant (funding for creators), Playground (zine market) and Directory (online database of independent and specialty creators and shops). More details about Komura; are found in our [website](http://www.hellokomura.com).
 
 
 <br />
@@ -85,4 +85,4 @@ Mas Maganda Yung Book
 
 A monthly film screening of movies based on books at Kwago Book Bar, the gathering aims to let people appreciate the written word in a different medium, as well as encourage critical thinking among the creative community.
 
-In partnership with independent movie review blog <a href="http://www.filmpolicereviews.com/">Film Police</a>, we will be screening movies based on books and will open dialogues about nuances in the narratives.
+In partnership with independent movie review blog [Film Police](http://www.filmpolicereviews.com/), we will be screening movies based on books and will open dialogues about nuances in the narratives.
