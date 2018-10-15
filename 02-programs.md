@@ -84,4 +84,4 @@ Mas Maganda Yung Book
 
 A monthly film screening of movies based on books at Kwago Book Bar, the gathering aims to let people appreciate the written word in a different medium, as well as encourage critical thinking among the creative community.
 
-In partnership with independent movie review blog Film Police Reviews (link: http://www.filmpolicereviews.com/), we will be screening movies based on books and will open dialogues about nuances in the narratives.
+In partnership with independent movie review blog <a href="http://www.filmpolicereviews.com/">Film Police</a>, we will be screening movies based on books and will open dialogues about nuances in the narratives.
