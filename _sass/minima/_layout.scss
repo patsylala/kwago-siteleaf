@@ -371,7 +371,7 @@ header .site-nav {
       }
       @include media-query($on-palm) {
         height: 27vw;
-        font-size: 2vw;
+        font-size: 1.9vw;
       }
     }
   }
@@ -436,10 +436,10 @@ header .site-nav {
 }
 
 .logo-table img{
-  height: 25px;
+  height: 20px;
   padding: 0 20px 20px 0;
   @include media-query($on-palm) {
-    height: 30px;
+    height: 25px;
     padding: 0 10px 20px 10px;
   }
 }

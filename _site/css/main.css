@@ -478,7 +478,7 @@ header .site-nav sup {
       @media screen and (max-width: 750px) {
         .board-section .bulletin-board .bulletin-text {
           height: 27vw;
-          font-size: 2vw; } }
+          font-size: 1.9vw; } }
 
 .contact-info {
   box-sizing: border-box;
@@ -524,11 +524,11 @@ header .site-nav sup {
     height: 80px; }
 
 .logo-table img {
-  height: 25px;
+  height: 20px;
   padding: 0 20px 20px 0; }
   @media screen and (max-width: 750px) {
     .logo-table img {
-      height: 30px;
+      height: 25px;
       padding: 0 10px 20px 10px; } }
 
 .social-table {
