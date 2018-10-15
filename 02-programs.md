@@ -35,7 +35,8 @@ At the doorstep of Warehouse Eight, Kwago book bar is a tiny literary respite an
 A Curated Shelf
 -------------
 
-Initiated by Kwago founder Czyka Tumaliuan and art curator and poet Roy Voragen, A Curated Shelf is a platform for critical and playful dialogues about literature and the potential of publishing as medium of self-expression and discourse.<br />
+Initiated by Kwago founder Czyka Tumaliuan and art curator and poet Roy Voragen, A Curated Shelf is a platform for critical and playful dialogues about literature and the potential of publishing as medium of self-expression and discourse.
+
 A Curated Shelf invites a guest curator to select, assemble and feature 15 works that provoke critical and creative thinking and explores the possibilities of a book—new, old, from Kwago’s inventory, and/or sourced by Kwago. Designed like an exhibition, every curated shelf and the works displayed in it will come with personal notes from the curator and a forum at the book bar.
 
 

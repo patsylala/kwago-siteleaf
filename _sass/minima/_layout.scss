@@ -434,6 +434,16 @@ header .site-nav {
     height: 80px;
   }
 }
+
+.logo-table img{
+  height: 25px;
+  padding: 0 20px 20px 0;
+  @include media-query($on-palm) {
+    height: 30px;
+    padding: 0 10px 20px 10px;
+  }
+}
+
 .social-table {
   display: table;
   @include media-query($on-palm) {
