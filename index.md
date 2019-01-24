@@ -1,4 +1,5 @@
 ---
+title: index.md
 layout: default
 ---
 
@@ -47,21 +48,4 @@ layout: default
       </p>
     </div>
   </div>
-</div>
-
-<div class="foot-notes">
-  <ul>
-    <li>
-      <sup>1</sup>Written in Filipino, the manifesto expresses our core values and beliefs as an organization. English translation is available.
-    </li>
-    <li>
-      <sup>2</sup><a href="http://warehouse-eight.com">Warehouse Eight</a> is our main co-conspirator in most of our programs and has given us so much love and support so we could pursue our mission to bring a library in every community.
-    </li>
-    <li>
-      <sup>3</sup>Kwago has a book bar at the doorstep of Warehouse Eight, which serves fiction-inspired coffee and cocktails, and holds regular <a href="https://www.facebook.com/pg/isipkwago/events/">events</a> for book lovers and different types of storytellers.
-    </li>
-    <li>
-      <sup>4</sup>A space may be physical or virtual, a person, a community, a universe in a book or a shelf..
-    </li>
-  </ul>
 </div>
