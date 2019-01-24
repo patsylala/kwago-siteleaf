@@ -29,7 +29,7 @@ layout: default
   <div class="flex-child">
     <div class="board-section">
       <div class="bulletin-board">
-        <img class="board-bg" src="assets/notebook.jpg"/>
+        <img class="board-bg" src="assets/website-zine.jpg"/>
         <div class="bulletin-text">
           <p>
           <span>Nov 24, 2018</span><br/>
