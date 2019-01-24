@@ -30,18 +30,6 @@ layout: default
     <div class="board-section">
       <div class="bulletin-board">
         <img class="board-bg" src="assets/website-zine.jpg"/>
-        <div class="bulletin-text">
-          <p>
-          <span>Nov 24, 2018</span><br/>
-          An intimate conference on funding independent creative pursuits for storytellers.</p>
-        </div>
-        <div class="bulletin-text">
-          <p>
-          <span>Nov 28, 2018</span><br/>
-          An intimate dinner with musicians and a stripped down gig. BONUS: 10% on books, bottomless beer and a roving gin and tequila.
-
-          Reserve a slot here: <a href="http://bit.ly/BEFOREMIDNIGHT">bit.ly/BEFOREMIDNIGHT</a></p>
-        </div>
       </div>
       <p>
         Kwago<sup>3</sup> is a Manila-based, independent book distributor committed to building intimate spaces<sup>4</sup> for readers and storytellers to connect, create and collaborate.
