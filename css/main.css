@@ -527,12 +527,12 @@ header .site-nav sup {
 
 .logo-table img {
   height: 20px;
-  max-width: 50px;
+  max-width: 40px;
   padding: 0 20px 20px 0; }
   @media screen and (max-width: 750px) {
     .logo-table img {
       height: 25px;
-      max-width: 70px;
+      max-width: 50px;
       padding: 0 10px 20px 10px; } }
 
 .social-table {
