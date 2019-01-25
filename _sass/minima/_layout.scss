@@ -437,6 +437,7 @@ header .site-nav {
 
 .logo-table img{
   height: 20px;
+  max-width: 50px;
   padding: 0 20px 20px 0;
   @include media-query($on-palm) {
     height: 25px;

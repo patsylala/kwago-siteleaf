@@ -525,6 +525,7 @@ header .site-nav sup {
 
 .logo-table img {
   height: 20px;
+  max-width: 50px;
   padding: 0 20px 20px 0; }
   @media screen and (max-width: 750px) {
     .logo-table img {

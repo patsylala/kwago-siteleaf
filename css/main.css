@@ -511,6 +511,8 @@ header .site-nav sup {
       padding-top: 30px; } }
   .contact-info .flex-child:nth-of-type(3) ul > li {
     padding-bottom: 20px; }
+    .contact-info .flex-child:nth-of-type(4) ul > li {
+      padding-bottom: 20px; }
   @media screen and (max-width: 750px) {
     .contact-info .flex-child:nth-of-type(3) ul > li:nth-of-type(2) {
       padding-bottom: 10px; } }
@@ -525,10 +527,12 @@ header .site-nav sup {
 
 .logo-table img {
   height: 20px;
+  max-width: 50px;
   padding: 0 20px 20px 0; }
   @media screen and (max-width: 750px) {
     .logo-table img {
       height: 25px;
+      max-width: 70px;
       padding: 0 10px 20px 10px; } }
 
 .social-table {
