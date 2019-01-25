@@ -31,9 +31,6 @@ layout: default
       <div class="bulletin-board">
         <img class="board-bg" src="assets/website-zine.jpg"/>
       </div>
-      <p>
-        
-      </p>
     </div>
   </div>
 </div>
