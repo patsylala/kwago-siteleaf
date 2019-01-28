@@ -20,7 +20,6 @@ layout: default
         <a class="page-link" href="/manifesto"><span>manifesto</span></a>
         <a class="page-link" href="/programs"><span>programs</span></a>
         <a class="page-link" href="/curated-shelf"><span>a curated shelf</span></a>
-        <a class="page-link" href="/publishers"><span>publishers</span></a>
         <a class="page-link" href="/submit"><span>submit a work</span></a>
       </div>
     </nav>
