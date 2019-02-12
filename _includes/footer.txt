@@ -1,0 +1,62 @@
+<html> <footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="contact-info flex">
+    <div class="flex-child">
+      <a href="{{ "/" | relative_url }}"><img class="kwago-logo" src= "../assets/kwago-logo.svg" /></a>
+    </div>
+    <div class="flex-child">
+      <p>
+        <strong>BOOK BAR</strong><br/>
+
+        Warehouse 8-A, La Fuerza Plaza <br>
+        2241 Don Chino Roces, <br>
+        Makati City, 1231 Metro Manila <br> <br>
+
+        <strong>MON - SAT: 1PM - 10PM </strong>
+
+      </p>
+
+    </div>
+    <div class="flex-child">
+      <ul>
+        <li>PRESS</li>
+        <div class="logo-table">
+          <a href="http://cnnphilippines.com/life/culture/literature/2018/06/07/independent-bookstore-philippines.html"><img src="../assets/cnn-logo.svg" alt=""></a>
+          <a href="https://www.rappler.com/life-and-style/arts-and-culture/196588-kwago-book-bar-warehouse-eight-makati"><img src="../assets/rappler-logo.svg" alt=""></a>
+          <a href="https://issuu.com/kanto_mag/docs/kanto_no._2_2018"><img src="../assets/kanto-logo.svg" alt=""></a>
+          <a href="https://ink-global.com/emagazines/mabuhay/758/april-2018/"><img src="../assets/mabuhay-logo.svg" alt=""></a>
+        </div>
+        <li>CONNECT</li>
+        <div class="social-table">
+          <div class="social-cell">
+            <li><a href="https://www.facebook.com/isipkwago">Facebook</a></li>
+            <li><a href="https://www.instagram.com/isipkwago">Instagram</a></li>
+          </div>
+          <div class="social-cell">
+            <li><a href="">Newsletter</a></li>
+            <li><a href="mailto:isipkwago@gmail.com">E-mail</a></li>
+          </div>
+        </div>
+      </ul>
+    </div>
+    <div class="flex-child">
+      <ul>
+        <li>CO-CONSPIRATORS</li>
+        <div class="logo-table">
+          <a href=""><img src="../assets/wager.svg" alt=""></a>
+          <a href=""><img src="../assets/comma-black.svg" alt=""></a>
+          <a href="https://warehouse-eight.com"><img src="../assets/we-allblack.svg" alt=""></a>
+        </div>
+      </ul>
+    </div>
+    <div class="flex-child">
+      <div class="copyright-wrapper">
+        Copyright Kwago 2019<br/>
+        All Rights Reserved
+      </div>
+    </div>
+  </div>
+
+</footer>
+ </html>
