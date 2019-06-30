@@ -39,50 +39,39 @@ Initiated by Kwago founder Czyka Tumaliuan and art curator and poet Roy Voragen,
 
 A Curated Shelf invites a guest curator to select, assemble and feature 15 works that provoke critical and creative thinking and explores the possibilities of a book—new, old, from Kwago’s inventory, and/or sourced by Kwago. Designed like an exhibition, every curated shelf and the works displayed in it will come with personal notes from the curator and a forum at the book bar.
 
-
-
 <br /><br />
 
 KOPYA
 -------------
 
-A non-profit initiative, KOPYA (the word for “copy” in Filipino) is Kwago’s digital archiving project that seeks to make local literature available to anyone for free. Composed of Josefti Nito, Gladys Regalado, Patricia Lascano, and Czyka Tumaliuan, the team is digitizing printed Filipiniana and storing it into a DIY, Raspberry Pi-based offline file-sharing and communications device with a free library software. KOPYA has designed workshops that would teach absolutely anyone to assemble the library from scratch.
-
-
+A non-profit initiative, KOPYA (the word for “copy” in Filipino) is Kwago’s collaborative digital archiving and library project that seeks to democratize access to publications on the sciences and the humanities. The team is digitizing printed Filipiniana and storing it into a DIY, Raspberry Pi-based offline file-sharing and communications device with a free library software. KOPYA has designed workshops that would teach absolutely anyone to assemble the library from scratch.
 
 <br /><br />
 
 Echoes
 -------------
 
-Co-founded with Warehouse Eight and Michael Lorenzana, Echoes is an independent community and platform for musicians and poets to freely express who they are in an intimate space where the audience is not expecting to be entertained but just to embrace and celebrate the beauty of the craft. Echoes brings guests and artists together in a warm setting where there’s no line separating them connecting communities in a very human way.
+Co-founded with Warehouse Eight, Echoes is an independent community and platform for musicians and poets to freely express who they are in an intimate space where the audience is not expecting to be entertained but just to embrace and celebrate the beauty of the craft. Echoes brings guests and artists together in a warm setting where there’s no line separating them connecting communities in a very human way.
 
 <br /><br />
 
-Pintuan
+Kwentuhan
 -------------
 
-In partnership with Warehouse Eight and Art of Doing, Pintuan transforms the door of Warehouse Eight and Kwago into an exhibition space featuring site-specific public art. A platform to feature artists and publishers, it’s an opportunity to tackle relevant issues that impact the creative community.
-
-
+Committed to connect readers and writers in an intimate way, Kwago is setting up after-hours conversations on publishing at the book bar, featuring writers and artists we love!
 
 <br /><br />
 
-May Tambay Sa Kwago
+Open Space
 -------------
 
-May Tambay Sa Kwago is a monthly gathering of people who wants to share their unfinished, in-progress projects—new or old. These works could be a song, a story, an event, an artwork, a poem—anything! May Tambay Sa Kwago aims to provide a no-BS environment to help creatives follow through and finish—a safe space where fellow creatives could give casual to critical perspectives about your work to help you grow, become sustainable, and distill your work so it echoes your unique voice.
-
-No programs. No mentors. Tambay lang.
-
-Sign up [here](bit.ly/DraftZero) if you're interested to share a project/ WIP.
-
+Open Space is Kwago's platform for anyone to do an activity or project at our book bar at Warehouse Eight. If it fits our mission and vision of making people fall in love with reading and books, we will help you develop and launch it!
+If you wish to apply, kindly fill up this application form: bit.ly/kwagoopenspaceapplication. And send an email of confirmation and intent to: isipkwago@gmail.com. Use the subject: Open Space Application.
 
 <br /><br />
 
-Mas Maganda Yung Book
+Boses
 -------------
 
-A monthly film screening of movies based on books at Kwago Book Bar, the gathering aims to let people appreciate the written word in a different medium, as well as encourage critical thinking among the creative community.
+Comma and Kwago present a series of intimate conversations with artists, activists and other public intellectuals at Kwago Book Bar.
 
-In partnership with independent movie review blog [Film Police](http://www.filmpolicereviews.com/), we will be screening movies based on books and will open dialogues about nuances in the narratives.
