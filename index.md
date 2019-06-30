@@ -19,7 +19,7 @@ layout: default
       <div class="trigger">
         <a class="page-link" href="/manifesto"><span>manifesto</span></a>
         <a class="page-link" href="/programs"><span>programs</span></a>
-        <a class="page-link" href="/curated-shelf"><span>a curated shelf</span></a>
+        <a class="page-link" href="/curated-shelf"><span>curated shelf</span></a>
         <a class="page-link" href="/submit"><span>submit a work</span></a>
       </div>
     </nav>
@@ -28,7 +28,7 @@ layout: default
   <div class="flex-child">
     <div class="board-section">
       <div class="bulletin-board">
-        <img class="board-bg" src="assets/website-zine.jpg"/>
+        <img class="board-bg" src="assets/manifesto-2019.jpg"/>
       </div>
     </div>
   </div>
