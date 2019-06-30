@@ -39,6 +39,9 @@ Initiated by Kwago founder Czyka Tumaliuan and art curator and poet Roy Voragen,
 
 A Curated Shelf invites a guest curator to select, assemble and feature 15 works that provoke critical and creative thinking and explores the possibilities of a book—new, old, from Kwago’s inventory, and/or sourced by Kwago. Designed like an exhibition, every curated shelf and the works displayed in it will come with personal notes from the curator and a forum at the book bar.
 
+More details [here](https://isipkwago.com/curated-shelf/).
+
+
 <br /><br />
 
 KOPYA
