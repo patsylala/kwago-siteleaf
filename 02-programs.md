@@ -65,8 +65,9 @@ Co-founded with Warehouse Eight, Echoes is an independent community and platform
 
 <br />
 
-<video width="100%" height="460" controls>
+<video width="100%" controls>
   <source src="../assets/media/echoes-warehouse.webm" type="video/webm">
+  <source src="../assets/media/echoes-warehouse.mp4" type="video/mp4">
 </video>
 
 <br /><br />
