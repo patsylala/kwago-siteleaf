@@ -1,5 +1,5 @@
 ---
-title: Curated Shelf
+title: A Curated Shelf
 permalink: "/curated-shelf/"
 layout: page
 ---
