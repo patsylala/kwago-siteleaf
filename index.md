@@ -19,7 +19,7 @@ layout: default
       <div class="trigger">
         <a class="page-link" href="/manifesto"><span>manifesto</span></a>
         <a class="page-link" href="/programs"><span>programs</span></a>
-        <a class="page-link" href="/curated-shelf"><span>curated shelf</span></a>
+        <a class="page-link" href="/a-curated-shelf"><span>curated shelf</span></a>
         <a class="page-link" href="/submit"><span>submit a work</span></a>
       </div>
     </nav>
