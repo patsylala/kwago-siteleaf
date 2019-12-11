@@ -1,6 +1,6 @@
 ---
 title: A Curated Shelf
-permalink: "/curated-shelf/"
+permalink: "/a-curated-shelf/"
 layout: page
 ---
 
