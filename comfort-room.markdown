@@ -42,7 +42,7 @@ In its ruggedness and lack of concern to look comfortable or easy, Brutalism can
 
 <div class="box">
 <div class="screenshot">
-<a href="https://brutalistwebsites.com/raw"><img src="http://brutalistwebsites.com/_img/raw.jpg" style="width:400px;"/></a>
+<a href="www.isipkwago.com/2020/01/29/lily-ahren-goes-to-japan.html"><img src="http://brutalistwebsites.com/_img/raw.jpg" style="width:400px;"/></a>
 </div>
 <p>RAW Magazine from Brutalist Websites</p>
 </div>
