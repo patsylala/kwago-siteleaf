@@ -65,9 +65,4 @@ idth:400px;"/></a>
 <p>Posh Space <a href="http://brutalistwebsites.com/posh.space">Interview</a></p>
 </div>
 
-<div class="box">
-<div class="screenshot">
-<a href="http://grafik.co.nz"><img src="http://brutalistwebsites.com/_img/grafik.co.nz.jpg" style="width:400px;"/></a>
-</div>
-<p>Grafik</p>
-</div>
+
