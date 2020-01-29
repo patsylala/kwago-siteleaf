@@ -32,11 +32,11 @@ overflow: hidden;
 <div> <img src="/uploads/comfortbanner.png"> </div>
 <div class="box">
 
-<p>Brutalist Websites<br/>
+<p><br/>
 –<br/>
-In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.<br/>
+Comfort Room is a space for playful, critical and profane conversations on literature, arts and tech. We publish thoughts and timeless blasphemies creating and contributing to discourses on contemporary culture. Or not.<br/>
 –<br/>
-<a href="mailto:submit@brutalistwebsites.com">Submit</a></p>
+<a href="mailto:isipkwago@gmail.com">Submit</a></p>
 </div>
 
 <div class="box">
