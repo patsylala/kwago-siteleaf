@@ -29,7 +29,9 @@ overflow: hidden;
 </head>
 <body>
 
+<div> <img src="/uploads/comfortbanner.png"> </div>
 <div class="box">
+
 <p>Brutalist Websites<br/>
 –<br/>
 In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.<br/>
