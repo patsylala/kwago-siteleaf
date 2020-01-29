@@ -29,7 +29,7 @@ overflow: hidden;
 </head>
 <body>
 
-<div> <img src="/uploads/comfortbanner.png"> </div>
+<div> <img src="/uploads/comfortbanner_halfhalf.png"> </div>
 <div class="box">
 
 <p><br/>
