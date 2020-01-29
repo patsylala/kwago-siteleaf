@@ -94,8 +94,7 @@ overflow: hidden;
 <div> <img src="/uploads/comfortbanner_halfhalf.png"> </div>
 <div class="box">
 
-<p><br/>
-–<br/>
+<p>
 <a href="mailto:isipkwago@gmail.com">Submit</a></p>
 </div>
 
@@ -117,8 +116,7 @@ overflow: hidden;
 </div>
 idth:400px;"/></a>
 </div>
-<p>M–L–XL <a href="http://brutalistwebsites.com/m-l-xl.org">Interview</a></p>
-</div>
+
 
 <div class="box">
 <div class="screenshot">
