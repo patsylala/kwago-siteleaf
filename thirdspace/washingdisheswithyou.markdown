@@ -3,6 +3,8 @@ title: washing dishes with you
 date: 2020-05-12 14:03:00 Z
 ---
 
+[IMG_E4244 (1).JPG](/uploads/IMG_E4244%20(1).JPG)
+
 Hello. 
 
 Thank you for dropping by my third home. 
