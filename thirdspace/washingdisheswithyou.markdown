@@ -5,8 +5,6 @@ date: 2020-05-12 14:03:00 Z
 
 <img src="../uploads/wdwy-web-1.JPG"/>
 
-!\[image\](path-to-image.jpg){: style="float: left"}
-
 thanks for dropping by my third home.
 <br />
 by entering, you make this a sanctuary.
