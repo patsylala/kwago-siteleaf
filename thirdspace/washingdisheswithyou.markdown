@@ -7,18 +7,18 @@ date: 2020-05-12 14:03:00 Z
 
 !\[image\](path-to-image.jpg){: style="float: left"}
 
-Thank you for dropping by my third home.
+thanks for dropping by my third home.
 <br />
-By entering, you make this a sanctuary.
+by entering, you make this a sanctuary.
 <br />
-My words in this in-between create silence,
+my words in this in-between create silence,
 <br />
-A poem to substitute the intimacy
+a poem to substitute the intimacy
 <br />
 my skin yearns to share with another but can’t.
 <br />
-You don’t see me. I don’t see you. But we are here.
+you don’t see me. I don’t see you. but we are here.
 <br />
-You are holding me. I am holding you.
+you are holding me. I am holding you.
 <br />
 I am really glad you came.
