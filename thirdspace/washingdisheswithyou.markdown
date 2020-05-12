@@ -3,15 +3,19 @@ title: washing dishes with you
 date: 2020-05-12 14:03:00 Z
 ---
 
-[IMG_E4244 (1).JPG](/uploads/IMG_E4244%20(1).JPG)
+<br />
 
-Hello. 
+<img src="../uploads/IMG_E4244%20(1).JPG" />
 
-Thank you for dropping by my third home. 
+<br /><br />
+
+Hello.
+
+Thank you for dropping by my third home.
 By entering, you make this a sanctuary.
 My words in this in-between create silence,
 A poem to substitute the intimacy
-my skin yearns to share with another but can’t. 
+my skin yearns to share with another but can’t.
 You don’t see me. I don’t see you. But we are here.
 You are holding me. I am holding you.
 I am really glad you came.
