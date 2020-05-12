@@ -1,5 +1,5 @@
 ---
-title: hello.
+title: hello.o
 date: 2020-05-12 14:03:00 Z
 ---
 
