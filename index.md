@@ -20,7 +20,7 @@ layout: default
         <a class="page-link" href="/manifesto"><span>manifesto</span></a>
         <a class="page-link" href="/programs"><span>programs</span></a>
         <a class="page-link" href="/a-curated-shelf"><span>a curated shelf</span></a>
-        <a class="page-link" href="/thirdspace"><span>third space</span></a>
+        <a class="page-link" href="/thirdspace"><span>thirdspace</span></a>
       </div>
     </nav>
   </div>
