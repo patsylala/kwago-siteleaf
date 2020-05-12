@@ -4,7 +4,7 @@ date: 2020-05-12 06:59:00 Z
 Field name: 
 ---
 
-A portal. A gap. An in-between.
+A margin. An in-between. A portal.
 
 **exhibitions**
 <br />
