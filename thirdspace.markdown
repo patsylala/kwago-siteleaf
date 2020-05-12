@@ -1,5 +1,7 @@
 ---
 title: Third Space
 date: 2020-05-12 06:59:00 Z
+Field name: 
 ---
 
+Thirdspace is a portal connecting our body with our ferocious imagination. Thirdspace as a portal imagines the margins as a space of radical openness, of an interplay between presence and absence, proximity and distance, utopia and dystopia, the physical and the mental, the real and the virtual, the personal and the political. Thirdspace is an inbetweenness: in between loneliness and the community´s togetherness there is a possibility to genuinely share silence and solitude, and a shared solitude can be a gesture towards greater solidarity. Shared silence could be an avenue towards deep listening and reading. We need to be attentive to all the questions we face - what makes us human? is a paramount question. We need to be attentive to the noise surrounding us. We write in the margins - the margins as a space to sharpen voices on our own terms. Voices that are layered, complex, amalgam of contradictions. Voice with scars and bruises. Voice with histories. Voices with parallel futures - futures that transgress the current norm(ality). Speaking, writing, reading, listening, coding, tweaking - these require pauses: to breath, to reflect, to comprehend, to dis/agree, to turn a page, to look out of a rear window. . . Kwago and it´s publishing & curatorial platform Comma seek to be(come) a thirdspace, a space between commas, and the radical openness of such space in between commas allows for blahblahzzzz. 
