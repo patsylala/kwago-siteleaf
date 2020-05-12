@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="flex">
-  <div id="nav-flex" class="flex-child">
+<div id="nav-flex" class="flex-child">
 
     <nav class="site-nav main-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -15,22 +15,22 @@ layout: default
           </svg>
         </span>
       </label>
-
+    
       <div class="trigger">
         <a class="page-link" href="/manifesto"><span>manifesto</span></a>
         <a class="page-link" href="/programs"><span>programs</span></a>
-        <a class="page-link" href="/a-curated-shelf"><span>a curated shelf</span></a>
-        <a class="page-link" href="/thirdspace"><span>thirdspace</span></a>
+     <a class="page-link" href="/thirdspace"><span>thirdspace</span></a>
       </div>
     </nav>
-  </div>
 
-  <div class="flex-child">
-    <div class="board-section">
-      <div class="bulletin-board">
-        <img class="board-bg" src="assets/manifesto-2019.jpg"/>
-      </div>
-    </div>
-  </div>
+</div>
+
+<div class="flex-child">
+<div class="board-section">
+<div class="bulletin-board">
+<img class="board-bg" src="assets/manifesto-2019.jpg"/>
+</div>
+</div>
+</div>
 
 </div>
