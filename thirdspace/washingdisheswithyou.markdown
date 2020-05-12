@@ -3,7 +3,7 @@ title: hello.o
 date: 2020-05-12 14:03:00 Z
 ---
 
-<img src="../uploads/czyka.jpg"/>
+<img src="../uploads/czyka%20(1).jpg"/>
 
 thanks for dropping by my third home.
 by entering, you make this a sanctuary.
