@@ -1,5 +1,5 @@
 ---
-title: "hello.o \U0001F4D6"
+title: washing dishes with you
 date: 2020-05-12 14:03:00 Z
 ---
 
@@ -31,12 +31,12 @@ I invite you to be my co-carpenter and construct a home within a home within a h
 you send me a photo of you washing the dishes,
 and I send you one of mine. I put our photos in a 1080 x 1080 digital frame, side by side like a diptych, and I turn it into a page in a book that I will give to you as a gift 6 months from now—a gesture of gratitude for your involvement. 
 
-<img src=".../uploads/wdwy3.jpg"/>
+<img src="../uploads/wdwy3.jpg"/>
 
 You could invite 10 friends who you want to build a home with—someone you miss, someone you want to reconnect with, someone important to you—to send you photos of them washing dishes. You can send me their photos, and I will create a diptych out of your photos. The content of the book are the photos I receive on my daughter’s birthday- August 18.
-<br/>
+<br/><br/>
 All photos go to: isipkwago@gmail.com.
-<br/>
+<br/><br/>
 Project archive and pages of the book will be exhibited on IG: @washingdisheswithyou
-<br/>
+<br/><br/>
 This project is inspired by [Ben Kinmont’s We Both Belong](http://www.adaweb.com/influx/kinmont/bk1.html)
