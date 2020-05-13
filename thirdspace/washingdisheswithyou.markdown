@@ -24,7 +24,7 @@ As a mom, I see domestic activities as architecture. the hands who cook and wash
 
 <img src="../uploads/sophie.jpg"/>
 
-I invite you to be my co-carpenter and construct a home within a home within a home within a home within a home without a home within a hole within a home without a hole within a home within a home within a outpost within a home within a hole within a home within a home without a hole within a home—a portal, a possibility, a pandemic.
+I invite you to be my co-carpenter and construct a home within a home within a home within a home within a home without a home within a hole within a home without a hole within a home within a home within an outpost within a home within a hole within a home within a home without a hole within a home—a portal, a possibility, a pandemic.
 
 <img src="../uploads/wdwy6.jpg"/>
 
