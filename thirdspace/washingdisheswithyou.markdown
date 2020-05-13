@@ -16,7 +16,7 @@ I am really glad you came.
 
 <br/>
 
-<img src="../uploads/IMG_4274.jpg"/>
+<img src="../uploads/wdwy2.jpg"/>
 
 As a mom, I see domestic activities as architecture. the hands who cook and wash your clothes build you. care work is what makes a home. touch is what molds a person.
 
