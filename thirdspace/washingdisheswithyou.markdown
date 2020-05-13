@@ -1,5 +1,5 @@
 ---
-title: hello.o
+title: "hello.o \U0001F4D6"
 date: 2020-05-12 14:03:00 Z
 ---
 
@@ -46,7 +46,7 @@ white background, and I turn it into a page in a book
 that I will give to you as a gift 6 months from now—
 a gesture of gratitude for your involvement. 
 
-<img src="../uploads/wdwy6.jpg"/>
+<img src=".../uploads/wdwy3.jpg"/>
 
 You could invite 10 friends who you want to build a home with,
 Someone you miss, someone you want to build intimacy with.
