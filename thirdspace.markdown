@@ -10,5 +10,5 @@ A margin. An in-between. A portal.
 
 **exhibitions**
 <br />
-05.15.2020 washing dishes with you by Czyka Tumaliuan
+05.15.2020 [washing dishes with you](https://isipkwago.com/thirdspace/washingdisheswithyou) by Czyka Tumaliuan
 
