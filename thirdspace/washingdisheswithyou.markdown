@@ -10,6 +10,6 @@ by entering, you make this a sanctuary.
 my words in this in-between create silence,
 a poem to substitute the intimacy
 my skin yearns to share with another but can’t.
-you don’t see me. I don’t see you. [but we are here.] (http://www.isipkwago.com/thirdspace/washingdisheswithyou/1)
+you don’t see me. I don’t see you. [but we are here.](http://www.isipkwago.com/thirdspace/washingdisheswithyou/1)
 you are holding me. I am holding you.
 I am really glad you came.
