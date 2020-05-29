@@ -39,4 +39,3 @@ All photos go to: isipkwago@gmail.com.
 <br/><br/>
 Project archive and pages of the book will be exhibited on IG: @washingdisheswithyou
 <br/><br/>
-This project is inspired by [Ben Kinmont’s We Both Belong](http://www.adaweb.com/influx/kinmont/bk1.html)
