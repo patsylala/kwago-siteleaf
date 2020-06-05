@@ -19,7 +19,7 @@ layout: default
       <div class="trigger">
         <a class="page-link" href="/manifesto"><span>manifesto</span></a>
         <a class="page-link" href="/programs"><span>programs</span></a>
-     <a class="page-link" href="/thirdspace"><span>thirdspace</span></a>
+   
       </div>
     </nav>
 
