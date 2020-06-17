@@ -3,7 +3,7 @@ title: washing dishes with you
 date: 2020-05-12 14:03:00 Z
 ---
 
-<img src="../uploads/washing1.jpg"/>
+<img src="../uploads/washing1.jpg/>
 
 <br/>
 
