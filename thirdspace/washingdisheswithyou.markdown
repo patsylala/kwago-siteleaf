@@ -7,9 +7,7 @@ date: 2020-05-12 14:03:00 Z
 
 <br/>
 
-<img src="../uploads/wdwy2.jpg"/>
-
-As a mom, I see domestic activities as architecture. the hands who cook and wash your clothes build you. care work is what makes a home. touch is what molds a person.
+<img src="../uploads/washing2.jpg>
 
 <br/>
 
