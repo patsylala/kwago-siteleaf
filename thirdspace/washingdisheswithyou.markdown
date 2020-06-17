@@ -3,7 +3,7 @@ title: washing dishes wid u
 date: 2020-05-12 14:03:00 Z
 ---
 
-<img src="../uploads/test4(1).jpg" />
+<img src="../uploads/washing1.jpg" />
 
 <br/>
 
