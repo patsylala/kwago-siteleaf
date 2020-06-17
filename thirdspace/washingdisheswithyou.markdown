@@ -7,7 +7,7 @@ date: 2020-05-12 14:03:00 Z
 
 <br/>
 
-<img src="../uploads/washing2.2.jpg>
+<img src="../uploads/washing 2.2.jpg>
 
 <br/>
 
