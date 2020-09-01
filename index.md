@@ -11,6 +11,8 @@ date: 2020-09-01 12:03:00 Z
 font-family: courier-classic;
 font-size: 10em;
  }
+body { background-color: blue;
+}
 a, a:visited { color: black; } 
 a:hover { color: orange; } 
 .hl { font-weight: bold; } 
