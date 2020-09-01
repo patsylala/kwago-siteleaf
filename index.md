@@ -12,7 +12,7 @@ date: 2020-09-01 12:03:00 Z
 width: 100%;
 height: 100%;
 font-family: 'Courier Prime', monospace;
-font-size: 3em;
+font-size: 6em;
  }
 body { 
 background-color: blue;
