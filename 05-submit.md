@@ -1,6 +1,7 @@
 ---
 title: Submit A Work
 permalink: "/submit/"
+published: false
 layout: page
 ---
 
