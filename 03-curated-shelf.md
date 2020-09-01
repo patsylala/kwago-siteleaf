@@ -1,6 +1,7 @@
 ---
 title: A Curated Shelf
 permalink: "/a-curated-shelf/"
+published: false
 layout: page
 ---
 
