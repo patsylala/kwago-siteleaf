@@ -9,7 +9,7 @@ date: 2020-09-01 12:03:00 Z
 .page-heading {display: none;}
 .in-progress { 
 font-family: courier-classic;
-font-size: 10em;
+font-size: 4em;
  }
 body { background-color: blue;
 }
