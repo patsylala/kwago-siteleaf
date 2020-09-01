@@ -4,9 +4,13 @@ date: 2020-09-01 12:03:00 Z
 ---
 
 <style>
-@font-face{ font-family: courier-classic; src: url(Courier.ttf);
+@font-face{ font-family: courier-classic; src: url(Courier.ttf);} 
 
-} a, a:visited { color: black; } a:hover { color: orange; } .hl { font-weight: bold; } a, a:visited { text-decoration: none; }
+.page-heading {display: none;}
+a, a:visited { color: black; } 
+a:hover { color: orange; } 
+.hl { font-weight: bold; } 
+a, a:visited { text-decoration: none; }
 
 </style>
 <div>
