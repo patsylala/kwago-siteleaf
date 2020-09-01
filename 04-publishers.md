@@ -1,6 +1,7 @@
 ---
 title: Publishers
 permalink: "/publishers/"
+published: false
 layout: page
 ---
 
