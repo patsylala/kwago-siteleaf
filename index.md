@@ -10,8 +10,6 @@ date: 2020-09-01 12:03:00 Z
 .in-progress { 
 font-family: courier-classic;
 font-size: 10em;
-
-
  }
 a, a:visited { color: black; } 
 a:hover { color: orange; } 
