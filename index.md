@@ -1,5 +1,5 @@
 ---
-title: index.md
+title: Kwago
 layout: default
 ---
 
