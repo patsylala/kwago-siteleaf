@@ -3,7 +3,7 @@ title: index
 date: 2020-09-01 12:03:00 Z
 ---
 
-<title> Kwago </title> <style>
+<style>
 @font-face{ font-family: courier-classic; src: url(Courier.ttf);
 
 } a, a:visited { color: black; } a:hover { color: orange; } .hl { font-weight: bold; } a, a:visited { text-decoration: none; }
