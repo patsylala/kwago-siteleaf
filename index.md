@@ -8,10 +8,15 @@ date: 2020-09-01 12:03:00 Z
 
 .page-heading {display: none;}
 .in-progress { 
+width: 100%;
+height: 100%;
 font-family: courier-classic;
 font-size: 4em;
  }
-body { background-color: blue;
+body { 
+background-color: blue;
+width: 100%;
+height: 100%;
 }
 a, a:visited { color: black; } 
 a:hover { color: orange; } 
