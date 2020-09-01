@@ -1,6 +1,7 @@
 ---
 title: Manifesto
 permalink: "/manifesto/"
+published: false
 layout: page
 ---
 
