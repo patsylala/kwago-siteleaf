@@ -4,34 +4,42 @@ published: false
 layout: default
 ---
 
-<div class="flex">
-<div id="nav-flex" class="flex-child">
+<html><head>
+  
+<meta charset="utf-8">
+<title>
+Kwago
+</title>
 
-    <nav class="site-nav main-nav">
-      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-      <label for="nav-trigger">
-        <span class="menu-icon">
-          <svg viewBox="0 0 18 15" width="18px" height="15px">
-            <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-          </svg>
-        </span>
-      </label>
-    
-      <div class="trigger">
-        <a class="page-link" href="/manifesto"><span>manifesto</span></a>
-        <a class="page-link" href="/programs"><span>programs</span></a>
-   
-      </div>
-    </nav>
+<link rel="stylesheet" type="text/css" href="normalize.css">
+<style>
 
-</div>
+@font-face{
+  font-family: courier-classic;
+  src: url(Courier.ttf);
+  
+}
+a, a:visited {
+  color: black;
+}
+a:hover {
+  color: orange;
+}
+.hl {
+  font-weight: bold;
+}
+a, a:visited {
+  text-decoration: none;
+}
 
-<div class="flex-child">
-<div class="board-section">
-<div class="bulletin-board">
-<img class="board-bg" src="assets/manifesto-2019.jpg"/>
-</div>
-</div>
-</div>
 
-</div>
+</style>
+</head><body style="font-family: courier-classic, monospace; word-break: break-all; line-height: 1; font-size: 50px; cursor: auto;background-color:blue;">  <p style="color:#ffffff";>
+xxxxxlogo here xDˆ'å‚·ËÜˆø;¨×ÈØ‰$€*1*etk›¾Æ&#x1F643;(WS&gt;El¸ŠÀÞšÈ’ã~ºöðÁŒÂ‡B  ferfl Q¨’oüæ,Ü®m¿×Lécå/Ò4™‰à§þÉÃïéX©±{SåÛa&lt;Š¯é^©.G &#x1F4A5; fwëÛL"¡°äw„¥vêÇæ$ÍUüÜ³ê¿&#x1F4DA;¹9öT:awstdu30Î!"ƒÐvo%¢"Ù+Â¥ \rt]ø&#x1F440;#àÕWüæA ¦oë›Ë›o H jÔïÂìµ)¦ufÞ–Å¬cçÂ?uþÙb<span class="hl"><a href="https://isipkwago.carrd.co/"> kwago in progress</a></span> Ÿê‰L‰Î!¿"ƒÐvo%¢"Ù+Â¥ \Np]ø#àÕWüæA xxx xx  t@”XA&#x1F9A0;È[ù§ÚÎþ¢;|‚,ˆ´ÄEZé'Œ=3PˆÎUìðsì¦$eK
+ ˆšH·Í~’©n›ý.UfÄe`'–hê‰Ú¤‡¼t?Ý† l¦oë›Ë›o H jÔïÂ&#x1F47E;H jÔïÂìµ)¦ufÞ–Å¬cçÂ?uþ
+ ‚ÎpE haha tangina k'3u+ƒÒ'ºI™LÐd ew lkgtms ÄEZé&#x1F92C;k›¾o%¢"Ù+Â¥ \rt]ø#àÕWüæA Ÿê&#x1F308;‰L‰Î!¿"ƒÐvo%¢"Ù+Â¥ \Np]ø#àÕWüæAˆšH·Í~’©n›ý.UfÄe`UfÄe`'–hê‰Ú¤‡¼t?Ý† l‚ÎpEk'3u+ƒÒ'ºI™LÐd --->&#x1F637;&#127477;&#127469;
+
+
+
+
+<!-- ---------------------------------------------------------------------------------- --></p></div></html>
