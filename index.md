@@ -3,7 +3,7 @@ title: index
 date: 2020-09-01 12:03:00 Z
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
 
 <style>
 
@@ -18,6 +18,7 @@ body {
 background-color: blue;
 width: 100%;
 height: 100%;
+overflow-y: hidden;
 }
 a, a:visited { color: black; } 
 a:hover { color: orange; } 
