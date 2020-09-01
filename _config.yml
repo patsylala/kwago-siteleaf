@@ -10,8 +10,8 @@ collections:
     output: true
 baseurl: 
 url: 
-instagram_username: isipkwago
-facebook_username: isipkwago
+instagram_username: 
+facebook_username: 
 markdown: kramdown
 theme: minima
 plugins:
