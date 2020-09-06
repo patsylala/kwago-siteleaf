@@ -8,7 +8,6 @@ date: 2020-09-01 12:03:00 Z
 
 <style>
 
-text-align:justify
 .page-heading {display: none;}
 .in-progress { 
 width: 100%;
